@@ -109,7 +109,7 @@ int main() {
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#632](https://github.com/anuraghazra/github-readme-stats/issues/632) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+1. 💪 Opened PR [#71](https://github.com/strangers-bd/strangers/pull/71) in [strangers-bd/strangers](https://github.com/strangers-bd/strangers)
 <!--END_SECTION:activity-->
 
 <hr/>
