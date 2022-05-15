@@ -109,7 +109,7 @@ int main() {
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#74](https://github.com/strangers-bd/strangers/issues/74) in [strangers-bd/strangers](https://github.com/strangers-bd/strangers)
+1. 💪 Opened PR [#75](https://github.com/strangers-bd/strangers/pull/75) in [strangers-bd/strangers](https://github.com/strangers-bd/strangers)
 <!--END_SECTION:activity-->
 
 <hr/>
