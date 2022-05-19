@@ -43,10 +43,9 @@ int main() {
 <div align="center">
 <a href="https://linkedin.com/in/samiulazim"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:contact.samiulazim@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a target="_blank" href="https://twitter.com/iamsamiulazim"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
-<a target="_blank" href="https://instagram.com/iamsamiulazim"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a target="_blank" href="https://facebook.com/iamsamiulazim"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="mailto:samiulazim@protonmail.com"><img src="https://img.shields.io/badge/-ProtonMail-8B89CC?style=flat&logo=ProtonMail&logoColor=white"/></a>
+<a target="_blank" href="https://twitter.com/w3samiulazim"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
+<a target="_blank" href="https://instagram.com/w3samiulazim"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a target="_blank" href="https://facebook.com/w3samiulazim"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </div>
 
 <hr/>
