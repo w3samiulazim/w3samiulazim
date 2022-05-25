@@ -14,7 +14,7 @@
 ``````c
 #include <stdio.h>
 int main() {
-   printf("Hello, World! I am Samiul Azim.\n A Software Engineer in Making.");
+   printf("Hello, World! I am Samiul Azim. A Software Engineer in Making.");
    return 0;
 }
 ``````
@@ -29,8 +29,6 @@ int main() {
 </p>
 
 <hr/>
-
-<img height="160" align="right" alt="Night Coding" src="https://raw.githubusercontent.com/w3samiulazim/w3samiulazim/main/images/night-coding.gif"/>
 
 - 🏢 Currently I'm working at [**Open Source Projects**](https://github.com/w3samiulazim?tab=repositories).
 - ⚙️ I use daily: `.c`, `.cpp`, `.js`, `.html`, `.css`, `.py`
@@ -51,7 +49,7 @@ int main() {
 <hr/>
 
 <!-- Details Section -->
-<details>
+<details open>
     <summary><strong><samp>&#9776; Technologies & Tools...</samp></strong></summary>
         <br>
 <div align="center">
@@ -102,14 +100,8 @@ int main() {
 <hr/>
 
 <!-- Details Section -->
-<details>
+<details open>
     <summary><strong><samp>&#9776; GitHub Stats...</samp></strong></summary>
-
-### ⚡ Recent Activity
-
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#75](https://github.com/strangers-bd/strangers/pull/75) in [strangers-bd/strangers](https://github.com/strangers-bd/strangers)
-<!--END_SECTION:activity-->
 
 <hr/>
 
