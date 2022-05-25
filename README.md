@@ -30,7 +30,7 @@ int main() {
 
 <hr/>
 
-<img height="180" align="right" alt="Night Coding" src="https://raw.githubusercontent.com/w3samiulazim/w3samiulazim/main/images/night-coding.gif"/>
+<img height="160" align="right" alt="Night Coding" src="https://raw.githubusercontent.com/w3samiulazim/w3samiulazim/main/images/night-coding.gif"/>
 
 - 🏢 Currently I'm working at [**Open Source Projects**](https://github.com/w3samiulazim?tab=repositories).
 - ⚙️ I use daily: `.c`, `.cpp`, `.js`, `.html`, `.css`, `.py`
