@@ -23,7 +23,7 @@ int main() {
         <!-- Organisation  -->
                 <br>
                 <em>
-                「 I am from Bangladesh and currently I am pursuing my diploma degree majoring in Engineering Computer Science & Technology (CST). I am a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems.</b> 」
+                「 I am from Bangladesh and currently I am pursuing my bachelor degree majoring in Software Technology. I am a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems.</b> 」
                 </em>
                 <br>
 </p>
