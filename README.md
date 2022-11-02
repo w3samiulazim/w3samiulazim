@@ -34,7 +34,7 @@ int main() {
 - ⚙️ I use daily: `.c`, `.cpp`, `.js`, `.html`, `.css`, `.py`
 - 💻 I'm mostly active within the Comitative Programming Community.
 - 🌱 Learning Software Development.
-- 🐧 GNU/Linux Enthusiast, I mostly use ArchLinux.
+- 🐧 GNU/Linux Enthusiast.
 - 📄 Please have a look at my [**Resume**](#) for more details about me.
 - 😊 I'm open to feedback and suggestions!
 
