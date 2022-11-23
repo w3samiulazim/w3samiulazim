@@ -11,10 +11,11 @@
         </samp>
 </div> -->
 
-``````c
-#include <stdio.h>
+``````c++
+#include <iostream>
+using namespace std;
 int main() {
-   printf("Hello, World! I am Samiul Azim. A Software Engineer in Making.");
+   cout << "Hello, World! I am Samiul Azim. A Software Engineer in Making." << endl;
    return 0;
 }
 ``````
